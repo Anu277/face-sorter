@@ -16,7 +16,7 @@ You can download the APK for different versions below:
 
 | Version | Release Date | Download Link |
 |---------|--------------|---------------|
-| v1.0.0  | [2025-01-20] | [Download APK]([https://github.com/your-username/FaceRecognitionApp/releases/download/v1.0.0/app-release-v1.0.0.apk](https://github.com/Anu277/face-sorter/releases/download/v1.0.0/face-sorter-v1.0.0.apk)) |
+| v1.0.0  | [2025-01-20] | [Download APK](https://github.com/Anu277/face-sorter/releases/download/v1.0.0/face-sorter-v1.0.0.apk) |
 
 
 > **Note**: Ensure you enable **"Install Unknown Apps"** in your phone’s settings to install the APK.
